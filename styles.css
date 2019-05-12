@@ -1,0 +1,58 @@
+body {
+  color: white;
+  background-color: darkgrey;
+  /* margin-top: 40px; */
+  font-family: 'proximanova_regular', Arial, sans-serif;
+  font-size: 12px;
+}
+
+h4 {
+  color: #fe6000;
+  text-align: center;
+  padding-bottom: 20px;
+
+}
+
+/* td {
+  background-color: darkgrey;
+  color: black;
+} */
+
+.Findex {
+  width: 200px;
+  height: 64px;
+  margin-left: 40px;
+  margin-top: 40px;
+  overflow: hidden;
+}
+
+.toppage {
+  background-color: black;
+}
+
+.mytablehead {
+  text-align: right;
+  color: black;
+  background-color: #fe6000;
+}
+
+.mytablefoot {
+  text-align: right;
+  font-weight: bold;
+  color: black;
+  background-color: #fe6000;
+}
+
+.mytablebody {
+  text-align: right;
+  color: black;
+}
+
+.mytablefootsixcol {
+  background-color: darkgrey;
+}
+
+.dropdown-item.active {
+  background-color: white;
+  color: black;
+}
